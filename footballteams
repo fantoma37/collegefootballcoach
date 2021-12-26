@@ -83,7 +83,7 @@
 						"name": "Barry Odom",
 						"contractYear": "0"
 					},
-					"rival": "TTU",
+					"rival": "MIZZ",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -185,7 +185,7 @@
 						"name": "Todd Grantham",
 						"contractYear": "0"
 					},
-					"rival": "LSU",
+					"rival": "FSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -236,7 +236,7 @@
 						"name": "Dan Lanning",
 						"contractYear": "0"
 					},
-					"rival": "TENN",
+					"rival": "FLA",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -287,7 +287,7 @@
 						"name": "Tim Banks",
 						"contractYear": "0"
 					},
-					"rival": "UGA",
+					"rival": "VAND",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -338,7 +338,7 @@
 						"name": "Daronte Jones",
 						"contractYear": "0"
 					},
-					"rival": "UF",
+					"rival": "TAMU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -542,7 +542,7 @@
 						"name": "Steve Wilks",
 						"contractYear": "0"
 					},
-					"rival": "ISU",
+					"rival": "ARK",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -644,7 +644,7 @@
 						"name": "Michael Elko",
 						"contractYear": "0"
 					},
-					"rival": "UT",
+					"rival": "LSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -695,7 +695,7 @@
 						"name": "Jesse Minter",
 						"contractYear": "0"
 					},
-					"rival": "UK",
+					"rival": "TENN",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -3252,7 +3252,7 @@
 					"state": "Florida"
 				},
 				{
-					"abbreviation": "UL",
+					"abbreviation": "LOU",
 					"prestige": "65",
 					"hexColor": "#AD0000",
 					"offCoordinator": {
@@ -3283,7 +3283,7 @@
 						"name": "Bryan Brown",
 						"contractYear": "0"
 					},
-					"rival": "USF",
+					"rival": "UK",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",

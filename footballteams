@@ -824,7 +824,7 @@
 				},
 				{
 					"abbreviation": "MSU",
-					"prestige": "70",
+					"prestige": "75",
 					"hexColor": "#18453B",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -875,7 +875,7 @@
 				},
 				{
 					"abbreviation": "WISC",
-					"prestige": "85",
+					"prestige": "80",
 					"hexColor": "#C5050C",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -926,7 +926,7 @@
 				},
 				{
 					"abbreviation": "MINN",
-					"prestige": "63",
+					"prestige": "70",
 					"hexColor": "#7A0019",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -977,7 +977,7 @@
 				},
 				{
 					"abbreviation": "IOWA",
-					"prestige": "77",
+					"prestige": "80",
 					"hexColor": "#FFCD00",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1028,7 +1028,7 @@
 				},
 				{
 					"abbreviation": "PUR",
-					"prestige": "50",
+					"prestige": "65",
 					"hexColor": "#CEB888",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1079,7 +1079,7 @@
 				},
 				{
 					"abbreviation": "IND",
-					"prestige": "59",
+					"prestige": "65",
 					"hexColor": "#990000",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1130,7 +1130,7 @@
 				},
 				{
 					"abbreviation": "NW",
-					"prestige": "75",
+					"prestige": "60",
 					"hexColor": "#4E2A84",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1181,7 +1181,7 @@
 				},
 				{
 					"abbreviation": "ILL",
-					"prestige": "40",
+					"prestige": "55",
 					"hexColor": "#E84A27",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -1229,10 +1229,163 @@
 					},
 					"name": "Illinois Fighting Illini",
 					"state": "Illinois"
-				}
+				},
+				{
+					"abbreviation": "MARY",
+					"prestige": "65",
+					"hexColor": "#E03A3E",
+					"offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "55",
+						"cumulativePrestige": "0",
+						"homeState": "Maine",
+						"ratPot": "85",
+						"hometown": "Mechanic Falls",
+						"ratTalent": "58",
+						"baselinePrestige": "50",
+						"coachingAbility": "71",
+						"name": "Dan Enos",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "43",
+						"cumulativePrestige": "0",
+						"homeState": "Iowa",
+						"ratPot": "67",
+						"hometown": "Eagle Grove",
+						"ratTalent": "57",
+						"baselinePrestige": "50",
+						"coachingAbility": "64",
+						"name": "Brian Stewart",
+						"contractYear": "0"
+					},
+					"rival": "BC",
+					"headCoach": {
+						"contractLength": "6",
+						"startYear": "2021",
+						"age": "53",
+						"ratOff": "67",
+						"cumulativePrestige": "0",
+						"ratDef": "62",
+						"homeState": "Connecticut",
+						"ratPot": "50",
+						"hometown": "Bristol",
+						"ratTalent": "61",
+						"baselinePrestige": "50",
+						"name": "Mike Locksley",
+						"contractYear": "0"
+					},
+					"name": "Maryland Terrapins",
+					"state": "Maryland"
+				},
+					{
+					"abbreviation": "RUT",
+					"prestige": "60",
+					"hexColor": "#CC0033",
+					"offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "49",
+						"cumulativePrestige": "0",
+						"homeState": "Washington DC",
+						"ratPot": "62",
+						"hometown": "Dupont Circle",
+						"ratTalent": "66",
+						"baselinePrestige": "55",
+						"coachingAbility": "64",
+						"name": "Sean Gleeson",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "57",
+						"cumulativePrestige": "0",
+						"homeState": "Ohio",
+						"ratPot": "57",
+						"hometown": "Wauseon",
+						"ratTalent": "67",
+						"baselinePrestige": "55",
+						"coachingAbility": "71",
+						"name": "Robb Smith",
+						"contractYear": "0"
+					},
+					"rival": "CUSE",
+					"headCoach": {
+						"contractLength": "6",
+						"startYear": "2021",
+						"age": "49",
+						"ratOff": "70",
+						"cumulativePrestige": "0",
+						"ratDef": "67",
+						"homeState": "Florida",
+						"ratPot": "76",
+						"hometown": "Celebration",
+						"ratTalent": "49",
+						"baselinePrestige": "55",
+						"name": "Greg Schiano",
+						"contractYear": "0"
+					},
+					"name": "Rutgers Scarlet Knights",
+					"state": "New Jersey"
+				},
+					{
+					"abbreviation": "NEB",
+					"prestige": "65",
+					"hexColor": "#E41C38",
+					"offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "40",
+						"cumulativePrestige": "0",
+						"homeState": "Minnesota",
+						"ratPot": "91",
+						"hometown": "Cottonwood",
+						"ratTalent": "46",
+						"baselinePrestige": "65",
+						"coachingAbility": "80",
+						"name": "Matt Lubick",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "48",
+						"cumulativePrestige": "0",
+						"homeState": "Tennessee",
+						"ratPot": "61",
+						"hometown": "Nashville",
+						"ratTalent": "79",
+						"baselinePrestige": "65",
+						"coachingAbility": "68",
+						"name": "Erik Chinander",
+						"contractYear": "0"
+					},
+					"rival": "TLSA",
+					"headCoach": {
+						"contractLength": "6",
+						"startYear": "2021",
+						"age": "50",
+						"ratOff": "63",
+						"cumulativePrestige": "0",
+						"ratDef": "60",
+						"homeState": "Georgia",
+						"ratPot": "69",
+						"hometown": "Acworth",
+						"ratTalent": "77",
+						"baselinePrestige": "65",
+						"name": "Scott Frost",
+						"contractYear": "0"
+					},
+					"name": "Nebraska Cornhuskers",
+					"state": "Nebraska"
+				},
 			],
 			"confFullName": "Big Ten Conference",
-			"confPrestige": "70",
+			"confPrestige": "80",
 			"confName": "B1G"
 		},
 		{
@@ -1490,57 +1643,6 @@
 					},
 					"name": "Colorado Buffaloes",
 					"state": "Colorado"
-				},
-				{
-					"abbreviation": "NEB",
-					"prestige": "60",
-					"hexColor": "#E41C38",
-					"offCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "40",
-						"cumulativePrestige": "0",
-						"homeState": "Minnesota",
-						"ratPot": "91",
-						"hometown": "Cottonwood",
-						"ratTalent": "46",
-						"baselinePrestige": "65",
-						"coachingAbility": "80",
-						"name": "Matt Lubick",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "48",
-						"cumulativePrestige": "0",
-						"homeState": "Tennessee",
-						"ratPot": "61",
-						"hometown": "Nashville",
-						"ratTalent": "79",
-						"baselinePrestige": "65",
-						"coachingAbility": "68",
-						"name": "Erik Chinander",
-						"contractYear": "0"
-					},
-					"rival": "TLSA",
-					"headCoach": {
-						"contractLength": "6",
-						"startYear": "2021",
-						"age": "50",
-						"ratOff": "63",
-						"cumulativePrestige": "0",
-						"ratDef": "60",
-						"homeState": "Georgia",
-						"ratPot": "69",
-						"hometown": "Acworth",
-						"ratTalent": "77",
-						"baselinePrestige": "65",
-						"name": "Scott Frost",
-						"contractYear": "0"
-					},
-					"name": "Nebraska Cornhuskers",
-					"state": "Nebraska"
 				},
 				{
 					"abbreviation": "TLSA",
@@ -3149,59 +3251,6 @@
 					"name": "Miami Hurricanes",
 					"state": "Florida"
 				},
-{
-					"abbreviation": "UMD",
-					"prestige": "45",
-					"hexColor": "#E03A3E",
-					"offCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "55",
-						"cumulativePrestige": "0",
-						"homeState": "Maine",
-						"ratPot": "85",
-						"hometown": "Mechanic Falls",
-						"ratTalent": "58",
-						"baselinePrestige": "50",
-						"coachingAbility": "71",
-						"name": "Dan Enos",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "43",
-						"cumulativePrestige": "0",
-						"homeState": "Iowa",
-						"ratPot": "67",
-						"hometown": "Eagle Grove",
-						"ratTalent": "57",
-						"baselinePrestige": "50",
-						"coachingAbility": "64",
-						"name": "Brian Stewart",
-						"contractYear": "0"
-					},
-					"rival": "BC",
-					"headCoach": {
-						"contractLength": "6",
-						"startYear": "2021",
-						"age": "53",
-						"ratOff": "67",
-						"cumulativePrestige": "0",
-						"ratDef": "62",
-						"homeState": "Connecticut",
-						"ratPot": "50",
-						"hometown": "Bristol",
-						"ratTalent": "61",
-						"baselinePrestige": "50",
-						"name": "Mike Locksley",
-						"contractYear": "0"
-					},
-					"name": "Maryland Terrapins",
-					"state": "Maryland"
-				},
-
-				
 				{
 					"abbreviation": "UL",
 					"prestige": "65",
@@ -3457,57 +3506,6 @@
 					},
 					"name": "Syracuse Orange",
 					"state": "New York"
-				},
-				{
-					"abbreviation": "RUT",
-					"prestige": "40",
-					"hexColor": "#CC0033",
-					"offCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "49",
-						"cumulativePrestige": "0",
-						"homeState": "Washington DC",
-						"ratPot": "62",
-						"hometown": "Dupont Circle",
-						"ratTalent": "66",
-						"baselinePrestige": "55",
-						"coachingAbility": "64",
-						"name": "Sean Gleeson",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "57",
-						"cumulativePrestige": "0",
-						"homeState": "Ohio",
-						"ratPot": "57",
-						"hometown": "Wauseon",
-						"ratTalent": "67",
-						"baselinePrestige": "55",
-						"coachingAbility": "71",
-						"name": "Robb Smith",
-						"contractYear": "0"
-					},
-					"rival": "CUSE",
-					"headCoach": {
-						"contractLength": "6",
-						"startYear": "2021",
-						"age": "49",
-						"ratOff": "70",
-						"cumulativePrestige": "0",
-						"ratDef": "67",
-						"homeState": "Florida",
-						"ratPot": "76",
-						"hometown": "Celebration",
-						"ratTalent": "49",
-						"baselinePrestige": "55",
-						"name": "Greg Schiano",
-						"contractYear": "0"
-					},
-					"name": "Rutgers Scarlet Knights",
-					"state": "New Jersey"
 				},
 				{
 					"abbreviation": "BC",

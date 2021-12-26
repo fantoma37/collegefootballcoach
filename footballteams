@@ -1,3 +1,5 @@
+$http.get('/path/to/your/json/file.json')//...
+
 {
 	"conferences": [{
 			"confTeams": [{

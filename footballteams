@@ -51,7 +51,7 @@
 					"name": "Alabama Crimson Tide",
 					"state": "Alabama"
 				},
-					{
+				{
 					"abbreviation": "ARK",
 					"prestige": "70",
 					"hexColor": "#9D2235",
@@ -102,7 +102,7 @@
 					"name": "Arkansas Razorbacks",
 					"state": "Arkansas"
 				},
-					{
+				{
 					"abbreviation": "AUB",
 					"prestige": "80",
 					"hexColor": "#0C2340",
